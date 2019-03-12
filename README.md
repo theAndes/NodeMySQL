@@ -1,7 +1,5 @@
 # NodeMySQL
-## Instructions
-
-### Challenge #1: Customer View (Minimum Requirement)
+### Customer View
 
 1. Created a MySQL Database called `bamazon`.
 
