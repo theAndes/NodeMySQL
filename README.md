@@ -1,2 +1,3 @@
 # NodeMySQL
-![]("/nodeMYsql.webm")
+![]("nodeMYsql.webm")
+
