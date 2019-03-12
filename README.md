@@ -38,4 +38,4 @@
 
 
 
-[CLI VIDEO](https://github.com/theAndes/NodeMySQL/blob/master/nodeMYsql.webm?raw=true)
+[Node CLI My SQL VIDEO](https://github.com/theAndes/NodeMySQL/blob/master/nodeMYsql.webm?raw=true)
